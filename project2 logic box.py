@@ -1,5 +1,5 @@
 #logic box:
-project link:-https://drive.google.com/file/d/134xlOh4vLQcjfvMG3lIYVrky6FmoK7go/view?usp=drive_link
+project link:https://drive.google.com/file/d/1w7OfisvBLzsS9KYmDIY3lAccwGc0yQrD/view
 print("-"*40)
 print("logic box project"
       )
